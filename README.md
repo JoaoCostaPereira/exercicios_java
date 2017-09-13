@@ -18,3 +18,7 @@ Solução mais optimizada/correta:
 
 - O ideal seria permitir que o utilizador introduzisse as bolas, lendo o input do teclado e preenchendo um array com os valores introduzidos, fazendo a validação do valor das bolas, ou seja, garantir que os valores introduzidos se encontram entre 0 e 59. Neste caso o tamanho do array seria determinado.
 A minha dúvida nesta abordagem está na interrupção do ciclo usado para permitir a introdução das bolas. Poderia ser feito usando uma variável de contagem (começando em 1) e usando um ciclo que termina até a variável atingir o valor 60 ou até um determinado caracter especial ser introduzido pelo utilizador. Dentro do ciclo seria preenchido o array (correspondente ao rack) com os valores introduzidos.
+
+Exercício 2 - Spell It Out
+
+referência - http://javahungry.blogspot.com/2014/05/convert-math-number-to-equivalent-readable-word-in-java-code-with-example.html
